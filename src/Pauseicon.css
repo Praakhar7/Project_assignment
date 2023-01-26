@@ -1,0 +1,9 @@
+.pause{
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 47vw;
+    bottom: 50vh;
+}

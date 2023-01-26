@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+  left:0;
+  
+}
+body{
+  overflow-y: hidden;
+}
+.liink{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    bottom: 35vh;
+    color: white;
+    justify-content:center;
+    font-weight: bolder;
+    font-size: 20px;
+    border:20px red ;
+    
+
+}
+h3{
+  background-color: blueviolet;
+  justify-content: space-between;
+}
